@@ -71,4 +71,4 @@ Data: `retail_financials.csv`. Net income is the amount attributable to the comp
 - `retail_financials.csv`: the data
 - `retail_queries.sql`: the SQL queries
 - `README.md`: this summary
-- `retail_add_rows.sql`: adds the 2022-2023 rows under “Files”
+- `retail_add_rows.sql`: adds the 2022-2023 rows
